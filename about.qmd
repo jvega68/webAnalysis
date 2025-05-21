@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Acerca de"
+lang: es
 ---
 
 About this site
